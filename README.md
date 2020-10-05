@@ -11,7 +11,7 @@
 # 安装
 
 ```bash
-curl https://raw.githubusercontent.com/EtherDream/jsproxy/0.1.0/i.sh | bash
+curl https://raw.githubusercontent.com/rootmelo92118/jsproxy/0.1.0/i.sh | bash
 ```
 
 * 自动安装目前只支持 Linux x64，并且需要 root 权限
@@ -28,7 +28,7 @@ curl https://raw.githubusercontent.com/EtherDream/jsproxy/0.1.0/i.sh | bash
 将域名 `example.com` 解析到服务器 IP，然后执行：
 
 ```bash
-curl https://raw.githubusercontent.com/EtherDream/jsproxy/master/i.sh | bash -s example.com
+curl https://raw.githubusercontent.com/rootmelo92118/jsproxy/master/i.sh | bash -s example.com
 ```
 
 访问: `https://example.com:8443`
