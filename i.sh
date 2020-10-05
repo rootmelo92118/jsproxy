@@ -23,7 +23,6 @@ DOMAIN_SUFFIX=(
 )
 
 GET_IP_API=(
-  https://api.ipify.org
   https://bot.whatismyipaddress.com/
 )
 
